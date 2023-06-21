@@ -7,6 +7,7 @@
 int main(void)
 {
 	int r;
+
 	r = _islower('H');
 	_puthcar(r + '0');
 	r = _islower('o');

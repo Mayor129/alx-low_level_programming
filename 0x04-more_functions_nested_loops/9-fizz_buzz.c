@@ -36,5 +36,5 @@ int main(void)
 		}
 	}
 	print("\n");
-	return (0)l
+	return (0);
 }

@@ -1,13 +1,14 @@
 #include <stdlib.h>
-#include <string.h>
 #include <stdio.h>
+#include <string.h>
 #include "lists.h"
 
 /**
- * main - check the code
+ * main - check thehead nad the new lists code
  *
- * Return: Always 0.
+ * Return: Always the value to be 0.
  */
+
 int main(void)
 {
 list_t *head;
